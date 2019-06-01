@@ -1,0 +1,2 @@
+# Room-Persistance-Library-
+Room is a persistence library, part of the Android Architecture Components. The Room persistence library provides an abstraction layer over SQLite to allow fluent database access while harnessing the full power of SQLite.  Even though I am late to the party, I recently spent some time working with the Room database in Android and I wanted to highlight some basics to the implementation.
